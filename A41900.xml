@@ -1,0 +1,381 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The gallant history of the life and death of that most noble knight, Sir Bevis of Southampton Wherein is contained much variety of pleasant and delightful reading.</title>
+            <title>Beuve de Hanstone.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41900</idno>
+            <idno type="STC">Wing G170</idno>
+            <idno type="STC">Wing G170_VARIANT</idno>
+            <idno type="STC">ESTC R223625</idno>
+            <idno type="EEBO-CITATION">99833914</idno>
+            <idno type="PROQUEST">99833914</idno>
+            <idno type="VID">38392</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41900)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38392)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1830:7a)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The gallant history of the life and death of that most noble knight, Sir Bevis of Southampton Wherein is contained much variety of pleasant and delightful reading.</title>
+                  <title>Beuve de Hanstone.</title>
+               </titleStmt>
+               <extent>[24] p. : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.M. for J. Deacon at the Angel in Guilt-spur-street without Newgate,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1691?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint place and date suggested by Wing.</note>
+                  <note>Signatures: A-C⁴.</note>
+                  <note>With woodcuts on C4v.</note>
+                  <note>Varies from Wing G170 at 1830:7b which has pagination and has advertisements at C4v instead of woodcuts.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38392:1"/>
+            <pb facs="tcp:38392:1"/>
+            <p>THE GALLANT HISTORY OF THE Life and Death Of that moſt Noble Knight, SIR, BEVIS OF <hi>Southampton.</hi> Wherein is contained much Variety of pleaſant and delightful Reading.</p>
+            <figure>
+               <figDesc>depiction of two armed men riding horses, with two women standing in the background</figDesc>
+            </figure>
+            <p>Printed by <hi>A. M.</hi> for <hi>J. Deacon</hi> at the Angel in <hi>Guilt-spur-street</hi> without <hi>Newgate.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="romance">
+            <pb facs="tcp:38392:2"/>
+            <pb facs="tcp:38392:2"/>
+            <head>The Gallant HISTORY OF <hi>Bevis of Southampton.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. Of the Birth of <hi>Bevis,</hi> and of the Death of his Father.</head>
+               <p>IN the Reign of <hi>Edgar,</hi> King of <hi>England,</hi> there was a moſt Renowned Knight, whoſe Name was Sir <hi>Guy,</hi> the Earl of <hi>Southampton,</hi> whoſe Deeds did exeed all the Valiant Knights in this Kingdom; who thirſting after Fame be<g ref="char:EOLhyphen"/>took himſelf to Travel: And firſt he ſailed into <hi>France, Flanders, Almain, Brabant, Sicily, Denmark, Calice, Gaſcoine, Hungaria, Spain, Eſtland, Norway, Picardy, Scotland, Lum<g ref="char:EOLhyphen"/>bardy, Wales:</hi> All theſe Parts he travelled in his Youth, and Conquered all his Oppoſers with his unmaſter'd ſtrength, and Victorious hand, fighting under the Banner of Chriſt, agaiſt all Withſtanders whatſoever they were. Thus ſpending the beſt part of his ſtrength for the Glory of Chriſt, and the honour of his Coun<g ref="char:EOLhyphen"/>try, he then returned into <hi>England</hi> again: King <hi>Edgar</hi> hearing
+<pb facs="tcp:38392:3"/> that Sir <hi>Guy</hi> was returned, ſent a Meſſeger for him preſently to do him honour for the valiant Deeds that he had done: Sir <hi>Guy</hi> with all ſpeed rode to the King, by whom he was Royally entertain<g ref="char:EOLhyphen"/>ed, and all his Nobles; and after great Feaſting, the King, accord<g ref="char:EOLhyphen"/>ing to Sir <hi>Guy's</hi> deſert, made him High Steward of <hi>England:</hi> then Sir <hi>Guy</hi> would betake him to a Wife, and the King of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> having a fair Daughter, Sir <hi>Guy</hi> made ſuit unto her: but the Emperors brother of <hi>Almain</hi> was a Suitor unto her likewiſe, and ſhe loved Sir <hi>Murdure</hi> better then ſhe loved Sir <hi>Guy;</hi> but the King her Father knowing Sir <hi>Guy</hi> to be a moſt Noble Peer of <hi>England,</hi> he gave his Daughter to him in Marriage: yet ſtill ſhe affected <hi>Murdure</hi> beſt; but <hi>Guy</hi> not knowing her hatred to him, retured with great Pomp into <hi>England,</hi> with his deceitful Lady. Not long after this he had a Son by her, and they name him <hi>Be<g ref="char:EOLhyphen"/>vis:</hi> At the Birth of his Child was exceeding Ioy and Triumph, with many Sanquectings; Then Sir <hi>Guy</hi> was confident his Ladies Heart was firmly link'd to his, with the never-breaking Bands of Love; but he good Knight, was much deceived; for ſhe <hi>(like Janus)</hi> bore a double face, one for Sir <hi>Guy,</hi> which frowned, but the other, which was for Sir <hi>Murdure,</hi> ſmiled; for his Wife percei<g ref="char:EOLhyphen"/>ving he was old, betook her ſelf to love Sir <hi>Murdure,</hi> and called a Servant to her, whom ſhe might well truſt, and ſaid; <hi>Thou muſt ſail into <hi>Almain</hi> with ſpeed, and keep my ſecrets, and ſay unto Sir <hi>Murdure</hi> the Emperors Brother, that I greet him kindly, and that I do deſire him to provide a great company of Knights and Gentlemen to come along with dim into <hi>England,</hi> with all ſpeed, and meet my Husband, which is hateful to me to look on, and tell him, that I will ſend Sir <hi>Guy</hi> into my Forreſt, pur<g ref="char:EOLhyphen"/>poſely to be ſlain by Sir <hi>Murdure;</hi> and then tell him I am his: Bid him perform this and live with me; the time he ſhall meet Sir <hi>Guy,</hi> ſhall be on the firſt of <hi>May.</hi>
+                  </hi> The Meſſage being deli<g ref="char:EOLhyphen"/>vered, Sir <hi>Murdure</hi> was reſolved to perform what ſhe command<g ref="char:EOLhyphen"/>ed: ſo on the firſt of <hi>May</hi> ſhe feigned her ſelf very ſick and weak, and called for her Husband, and ſaid unto him, That ſhe would deſire him to go into the Forreſt, and ſlay a wild Beaſt for her to eat. This worthy Knight not thinking of her Treachery, took a Steed, girt a Sword about him, and with a Spear in his hand,
+<pb facs="tcp:38392:3"/> rode to the Forreſt with ſpeed: By this time Sir <hi>Murdure</hi> and his Company was entred the Forreſt, who meeting Sir <hi>Guy,</hi> ſaid, <hi>Traytor, for the love I bear to thy Lady, thou ſhalt quickly loſe thy life, and after this, i'le ſlay thy Son; for why, thy Wife belongs to me.</hi> With that Sir <hi>Guy</hi> ſet Spurs to his Horſe, and rode with ſuch violence againſt this <hi>Murdure,</hi> that he threw him out of his Saddle: Then Sir <hi>Murdure</hi> thinking he ſhould have been ſlain, cryed out to his followers, who came preſently and ſet upon Sir <hi>Guy, and</hi> ſwore he ſhould loſe his Life: Then Sir <hi>Guy</hi> deſired but to fight with Sir <hi>Murdure</hi> hand ſo hand, and then if he loſt his Life, he would forgive them all; but they would not grant his requeſt, but ſlew him preſently, and cut off his head, and ſent it to his Lady; who received it joyfully, and gave the Meſſenger a great Reward: this Treachery being ac<g ref="char:EOLhyphen"/>compliſhed, Sir <hi>Murdure</hi> made haſt unto the Caſtle of Sir <hi>Guy;</hi> and there was Royally received of Sir <hi>Guy</hi>'s Wife: where for a while I leave them to their pleaſures, and now come to ſpeak of young <hi>Bevis.</hi>
+               </p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II. How <hi>Bevis</hi> kept Sheep; and how he went to his Fathers houſe, and ſlew the Porter of the Gate, and many other things that happened.</head>
+               <p>
+                  <hi>BEvis</hi> hearing how baſely his Father was killed, ran to his Mother, and vowed if ever he came to Age, that he would be revenged on her, and on that baſe Traytor, Sir <hi>Murdure.</hi> With that his Mother gave her Son a box on the ear, which fell'd poor <hi>Bevis</hi> to the ground: Sir <hi>Sabere,</hi> being Brother to Sir <hi>Guy,</hi> was very ſorrowful for the death of his Brother: and ſeeing his Nephew ſo miſuſed, catch'd him up in his Arms, and carried him away: his Mother ſent preſently after Sir <hi>Sabere,</hi> privately to murder her Son <hi>Bevis:</hi> Sir <hi>Sabere</hi> ſaid he would, &amp; dreſt <hi>Bevis</hi>
+                  <pb facs="tcp:38392:4"/> in old Cloaths, and ſent to keep his Sheep: ſo <hi>Bevis</hi> went to the top of a Hill near his Fathers Caſtle, where his Vncles Sheep were. In the mean time Sir <hi>Sabere</hi> killed a Pig, and dipt the Garments of the Child in the blood thereof; poor <hi>Bevis</hi> all this while ſot weep<g ref="char:EOLhyphen"/>ing upon the Hill, but hearing Trumpets ſounding at his Fathers Caſtle, and much Melody, for joy that his Mother had obtained her deſire, <hi>Bevis</hi> caſt off care of keeping Sheep, &amp; ran with his Shep<g ref="char:EOLhyphen"/>herds Crook on his Shoulder to the Caſtel, and knocking at the Gate, the Porter denied him entrance: With that young <hi>Bevis</hi> with his Crook, gave him ſuch a bang on the Crown, which fell'd the Porter to the earth; then into the Hall he went, where Sir <hi>Murdure</hi> ſat at Table with his Mother, and many Knights and Ladies (though all in Rags, he ſhewed them of what houſe he came on) and with a violent blow ſtruck Sir <hi>Murdure</hi> under the Ta<g ref="char:EOLhyphen"/>ble, and ſwore if it had not been againſt Nature, he would ſend his Mother after his own Father. With that all the Knights in the Hall ſought to lay hands on him; but <hi>Bevis</hi> forc'd his way through the midſt of them, and got clear away: Sir <hi>Sabere</hi> méeting <hi>Bevis</hi> running from the Caſtle, ſaid, Where haſt thou been? <hi>Bevis</hi> an<g ref="char:EOLhyphen"/>wered, at my Fathers Caſtle, where I ſlew the Porter of the Gate and Knockt my Father under the Table, and was about to kill my mother, but that Nature taught me the contrary: Alas, ſaid his Vncle, thou haſt betrayed us both, yet once more will I ſave thee. The mother of <hi>Bevis</hi> (like a woman diſtracted of her wits) came running to her Brother in great haſt, and ſaid; What? haſt thou not flain that young Villain? Madam, quoth he, he is dead: Vil<g ref="char:EOLhyphen"/>lain, ſaid ſhe, thou lyeſt: If thou doſt not make him away the ſooner, it ſhall coſt thy life and his both: Madam, ſaid he, behold his Cloaths dipped in blood: <hi>Bevis</hi> hearing her ſpeeches, ſtept out of the Chamber, and was ready to tear her in pieces, but ſhe eſcaped out of his hands by the help of her Brother: then ſhe en<g ref="char:EOLhyphen"/>treated Sir <hi>Sabere</hi> and another Knight to caſt <hi>Bevis</hi> into the Sea, and drown him, which they did conſent unto, to pacifie her wrath,</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb facs="tcp:38392:4"/>
+               <head>CHAP. III. How <hi>Bevis</hi> was ſold unto the <hi>Panims,</hi> and carried over the Sea into <hi>Armony,</hi> and preſented to King <hi>Ermine.</hi>
+               </head>
+               <p>AND going to the Sea-ſide, they met with Merchants of <hi>Ar<g ref="char:EOLhyphen"/>mony,</hi> Sir <hi>Sabere</hi> ſold <hi>Bevis</hi> to them: the Merchants ſoon arrived in <hi>Armony,</hi> and then preſented <hi>Bevis</hi> to the King; the King gave them many thanks, and ſwore by his God <hi>Mahound,</hi> he never ſaw ſuch a ſweet fac'd Boy in all his life: Then the King asked him where he was born? In <hi>England,</hi> ſaid <hi>Bevis:</hi> Whoſe Son waſt thou there? ſaid the King: Sir <hi>Guy</hi>'s of <hi>Southampton</hi> quoth <hi>Bevis:</hi> I have heard much talk of thy Father (ſaid the King) and by Report he was a valiant Knight as ever yet drew Sword: I have but one fair Daughter ſaid the King) and if thou wilt forſake thy God, and ſerve <hi>Apoline</hi> our god, thou ſhalt have my Daughter to Wife, and enjoy my Kingdom after me. Not ſo, my Lord, ſaid <hi>Bevis,</hi> for all the Beauties in the World I would not deny my Creator. Then ſaid the King, wilt thou be my Chamberlain? and when I find, thy deſert, I'le dub thee a Knight, and thou ſhalt bear my Standard in the Field againſt my Foes: What you pleaſe to command me, my Lord ſaid he, ſave denying of my God, I will do. <hi>Bevis</hi> was ſo be<g ref="char:EOLhyphen"/>loved of the King, that none Durſt ſpeak againſt him; Nay, <hi>Joſian</hi> the Kings Daughter was in love with him. As it chanced on Chriſtmas-day <hi>Bevis</hi> rode into the Field to recreate himſelf, and meeting with threeſcore <hi>Sarazens,</hi> one of them asked him what day it was? <hi>Bevis</hi> anſwered, I know not; for I was not ſeven years old when I came out of my own Country: Then ſaid the <hi>Sara<g ref="char:EOLhyphen"/>zens,</hi> upon this day thy God was born, and wilt thou not honour thy God on his Birth-day. Yes, ſaid <hi>Bevis,</hi> if I was as well armed as my Father was, you ſhould know that I would honour this day better than ever you honoured your god <hi>Apoline:</hi> With that they all run upon him, thinking to kill him preſently: but <hi>Bevis</hi> having no Weapon, got one of their Swords away, and with the ſame made their Steeds to run home without their Ri<g ref="char:EOLhyphen"/>ders; for he ſlew and wounded all the <hi>Sarazens.</hi> The King hear<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:38392:5"/> what <hi>Bevis</hi> had done againſt his god <hi>Apoline,</hi> ſwore he ſhould dye; then <hi>Joſian</hi> down on her knees, and deſired her Father that <hi>Bevis</hi> might live, which the King granted: then <hi>Joſian</hi> went to <hi>Bevis</hi> and kiſſed him, and dreſſed his Wounds, and then brought him to the King her Father; who, when he ſaw <hi>Bevis</hi> ſo wounded, the Tears ran down his Cheeks, and then he prayed <hi>Joſian</hi> to do the beſt ſhe could to cure his Wounds, which ſhe per formed in a little ſpace; ſo <hi>Bevis</hi> grew as ſound as ever he was.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV. How <hi>Bevis</hi> one morning ſlew a mighty wild <hi>Boar</hi> in the Forreſt.</head>
+               <p>VVIthin that Country there was a great Forreſt, and within the ſame there was a mighty wild Boar, that devoured Man, Woman, and Child; <hi>Bevis</hi> hearing of him, one Morning early he ſaddled his Steed, and took a good Sword by his ſide, and rode to the Forreſt, to try a Combat with his wild Boar; and ri<g ref="char:EOLhyphen"/>ding to and fro, it was his luck to find the Cave where this wild Boar was, and as he tyed his Steed to a Tree, out came the Boar, and ſo aſſailed <hi>Bevis,</hi> that he was fain to ſhrink back: then <hi>Bevis</hi> recovering ground, made at him with a Spear, and burſt it all in pieces; then out he drew his Sword, and laid many a hea<g ref="char:EOLhyphen"/>vy blow upon the Boars Briſtles, but could not make any entrance into the fleſh; &amp; at laſt by good fortune the Boar came at him with an open mouth, and <hi>Bevis</hi> having that advantage, with one violent blow cut his upper Iaw aſunder: at which the Boar gave ſuch a cry, as would have frighted a thouſand men, had they been in the hearing of it: then into his throat <hi>Bevis</hi> thruſt his Sword and kil<g ref="char:EOLhyphen"/>led him outright, and with much ado cut off his Head, and ſtuck it upon the Truncheon of his ſpear, and ſo mounted himſelf upon his Steed, and as he was riding homewards, twelve Forreſters ſet upon him to take the Boars head away, that they might get the Honour which <hi>Bevis</hi> had ventured his life for: And indeed <hi>Bevis</hi> was unprovided; for he (with very joy that he had ſlain the Boar) left his Sword behind him, but yet he made a pretty
+<pb facs="tcp:38392:5"/> ſhift with them, for he killed nine of them, and the other three ran away: and then <hi>Bevis</hi> had frée way to ride to the Court without any hindrance. There was many ſpectators to behold <hi>Bevis</hi> with the Boars-head, among which company was fair <hi>Joſian</hi> beholding <hi>Bevis</hi> with great joy: and <hi>Bevis</hi> ſeeing <hi>Joſian</hi> ſmile, began to ride Majeſtically towards her, and entred the Court, fair <hi>Joſian</hi> bad him welcome, and brought him to the King; ſo when <hi>Bevis</hi> pre<g ref="char:EOLhyphen"/>ſented the Boars-head, the King received it, and gave <hi>Bevis</hi> many thanks, and ſwore by <hi>Apoline,</hi> for ſlaying the Boar he would do him great honour.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V. How <hi>Bevis</hi> was made a Knight, and a General of Twenty Thou<g ref="char:EOLhyphen"/>ſand Men, to go againſt <hi>Brandmond.</hi>
+               </head>
+               <p>ABout this time King <hi>Brandamond</hi> ſent an Ambaſſador to King <hi>Ermine,</hi> to have fair <hi>Joſian</hi> to his wife or elſe he would beat him out of his Country: Then <hi>Ermine</hi> aſſembled all his Lords and Barons together to advice what to do: ſome ſaid it was better to let <hi>Joſian</hi> go, rather than to hazard the loſs of his Crown and Kingdom: <hi>Joſian</hi> knowing their reſolution ſpoke to her Fa<g ref="char:EOLhyphen"/>ther in this manner: Father (ſaid ſhe) if you will be pleaſed to make <hi>Bevis</hi> General over an Hoſt of men, he would maintain your right and conquer your Foes. The King hearing of his daughters words ſent for <hi>Bevis</hi> and dubb'd him a Knight, and choſe out twenty thou<g ref="char:EOLhyphen"/>ſand men to go under Sir <hi>Bevis</hi>'s Command: then <hi>Joſian</hi> fitted on his Armour, &amp; gave him a Sword called <hi>Morglay;</hi> then ſhe brought him a Steed called <hi>Arundel;</hi> ſo Sir <hi>Bevis</hi> being mounted, <hi>Joſian</hi> viewed him well, and ſmiled at him, and <hi>Bevis</hi> ſmiled on her again; and then ſaluting her, away he rode with all his Hoſt againſt <hi>Brandmond</hi> and his Hoſt: <hi>Brandmond</hi> ſeeing <hi>Bevis</hi>'s Army to be no more, laughed at them; Doſt thou laugh, ſaid <hi>Bevis?</hi> I'le make thee curſe the time that ever thou cameſt hither; then ſetting his Golden Spurs to his Steed, he ran full drive at <hi>Brandmond,</hi> that <hi>Brandmond</hi> thought ſure he ſhould have dyed at that hour, and
+<pb facs="tcp:38392:6"/> ſeeing <hi>Radiſon</hi> was ſlain, his heart began to faint: The Armies both did fight couragiouſly, and many men were loſt on both ſlides: then <hi>Brandmond</hi> took two of <hi>Bevis</hi>'s Knights Priſoners, but <hi>Bevis</hi> met with them, and felled <hi>Brandmond</hi> to the ground, Horſe and all, and took him Priſoner: O ſir, ſaid <hi>Bevis,</hi> I'le have you to <hi>Joſian:</hi> ſave my Life, cryed <hi>Brandmond,</hi> and have me whither thou wilt: ſo <hi>Bevis</hi> returned with great Victory, and was Roy<g ref="char:EOLhyphen"/>ally entertained of the King; and then <hi>Joſian</hi> broke her mind to <hi>Bevis;</hi> quoth ſhe, by <hi>Mahound,</hi> I do deſire to be thy Love; Not ſo Lady, ſaid <hi>Bevis,</hi> I'le wed no Heatheneſs; Which words ſhe took very ſcornfully; <hi>Bevis,</hi> perceiving her anger, ſaid, Lady adieu, for I ſhall never ſee you again; and ſo he left her, and went to his Chamber; then <hi>Joſians</hi> heart began to throb, and what to do ſhe knew not; at laſt ſhe ſent two Knights unto him, to deſire him to come unto her, but <hi>Bevis</hi> would not? then ſhe went her ſelf, and ſaid, My Lord, I would entreat you not to leave me now, but grant me that I ſhall be thy Wife, and I'le do whatſoever thou wilt have me to do; I'le forſake my Gods, and turn a Chriſtian for your ſake, Sir Knight, or any thing elſe that will pleaſe you. At theſe words Sir <hi>Bevis</hi>'s heart began to melt, and being over<g ref="char:EOLhyphen"/>joyed, he took her in his Arms and kiſſed her: The two Knights that <hi>Bevis</hi> redeemed from <hi>Brandmond,</hi> hearing what words paſſed between <hi>Bevis</hi> and <hi>Joſian,</hi> told to the King, which made him mad with <hi>Bevis;</hi> ſo to bring <hi>Bevis</hi> to his end, the King wrote Letters to <hi>Brandmond,</hi> to put <hi>Bevis</hi> to death, who was the bearer of the Letters. Where I will leave him, and ſpeake a little of <hi>Bevis</hi>'s Vncle, Sir <hi>Sabere,</hi> who was much grieved for <hi>Bevis,</hi> and ſent his Son <hi>Terry</hi> in ſearch for him; who travelled many Heathen Lands yet could not find out <hi>Bevis;</hi> but he ſwore never to ſee <hi>England</hi> again, if he ſound him not.</p>
+            </div>
+            <div n="6" type="chapter">
+               <pb facs="tcp:38392:6"/>
+               <head>CHAP. VI. How <hi>Bevis</hi> went on his Journey with Letters from King <hi>Ermine</hi> to King <hi>Brandmond,</hi> which concerned his own life; and how he fought with the Sarazens in <hi>Damas,</hi> and how he pull'd down the Idols, and how they put him in Priſon, and what after befell.</head>
+               <p>THen took <hi>Bevis</hi> his Letters, and poſted away towards the the Land of <hi>Pavy,</hi> and has he rode, he ſaw a Palmer, to whom he ſaid, What Country-man are you, good Palmer? I am an Engliſh-man, ſaid the Palmer, and I ſeek for one I cannot find: what is his Name, ſaid <hi>Bevis?</hi> His name is <hi>Bevis</hi> ſaid the Pal<g ref="char:EOLhyphen"/>mer, my Fathers Brothers Son: I have heard of his Name, qd. he, put I do not know him: I would I could find him ſaid the Palmer; He is about theſe Countries, ſaid he; So after ſome diſcourſe, they parted; for <hi>Bevis,</hi> would not make himſelf known, but away rode he to <hi>Damas</hi> City, where the King did live, which was a moſt ſtately place: &amp; entring into the ſtreets, the He thens were ſacrificing to their Gods, which was odious for him to behold: What Devil do you ſerve here, ſaid <hi>Bevis?</hi> and ran to the God <hi>Mahound,</hi> and pulled him down from the Altar, and threw him into the Channel: Then all the Sarazens ſought with <hi>Bevis,</hi> but he plaid his part ſo valiantly, that he made the ſtreets to run down with blood: for he laid about him ſo faſt, that there was full two hundred Sarazens killed that bout: then ſome went to the King and told him all that was befell to the God <hi>Mahound,</hi> and how many were killed: the King all in a rage, ſwore by <hi>Mahound, Apoline, and Terganant,</hi> he ſhould dye for his bold attempt, and as the King was going to ſee what he ſhould be that had done this Outrage, <hi>Bevis</hi> met him at the Gate of his Pallace, and ſeeing the King, fell down on his knees, and delivered his meſſage: The King took the Letters, and did read them, and they proved Treaſon againſt poor <hi>Bevis;</hi> to this effect they were; That King <hi>Brad<g ref="char:EOLhyphen"/>mond</hi> ſhould put <hi>Bevis</hi> to death: Thus <hi>Ermine</hi> betrayed him that before had kept him from deſtruction: <hi>Bevis</hi> ſeeing what he muſt truſt to, with manly courage began to make another great ſlaugh<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:38392:7"/> among them, four or five at every blow he brought to the ground he ſtruck ſuch heavy ſtrockes, that his Sword broke, and after with his Fiſts brought to the ground ſixty Sarazens more: at laſt the multitude overcome him, &amp; bound his hands that he could not ſtir: Alas, ſaid <hi>Bevis,</hi> let me not dye a Dogs death but give me an horſe and armour, &amp; a good ſword, and I will fight againſt an hundred thouſand of you, ſo I dye fairly in the field, I care not: but all cryed out againſt him, and ſaid, hang him, others ſaid burn him, ſome ſaid ſtarve him to death: then beſpake the King: he ſhall be devoured by the two Dragons in the Dungeon; with that they were all con<g ref="char:EOLhyphen"/>tented So in the Dungeon was he caſt, but they untyed his hands by good fortune: in the Dungeon he found the Truncheon of a Spear: the Dragons ſeeing a Prey, made at him very ſtrongly, but he diſpatcht them both, and then he was at reſt a while.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII. How <hi>Joſian</hi> demanded of her Father what was become of <hi>Bevis.</hi>
+               </head>
+               <p>FAther, ſaid <hi>Joſian,</hi> where is Sir <hi>Bevis?</hi> he replyed, he is gone to his Country. At this time came King <hi>Jour,</hi> intending for to wed <hi>Joſian,</hi> which he obtained. And <hi>Ermine</hi> gave <hi>Jour Arun<g ref="char:EOLhyphen"/>del</hi> and <hi>Morglay,</hi> which belonged to <hi>Bevis.</hi> This <hi>Joſian</hi> no way could avoid: Now all this time <hi>Bevis</hi> was in Priſon, and the Koepers would go down to ſee him, being he had been there the term of ſeven years, and fed with nothing but Bran and Water, they thought he was wondrous féeble, but he wos ſo ſtrong, that he kill'd them both, being midnight, and ſo get out clear, and took a Steed, and away he rode: now when he was gone, they quickly followed, and Sir <hi>Grandere</hi> mounted on <hi>Trunchifiſe,</hi> overtook him: with that <hi>Bevis</hi> turned about, and ſmote <hi>Grandere</hi> on the Head, which blow clove him aſounder down to the Girdle; then <hi>Bevis</hi> leayt off his Steed, and got upon <hi>Trunchifiſe;</hi> then he rode forward again. By this time many thouſands of Sarazens were in purſuit after him, &amp; followed him ſo cloſe, that he was forced on <hi>Trunchiſiſe</hi> back to ſwim over the River; and when he was come to Land, with
+<pb facs="tcp:38392:7"/> very hunger he was ready to faint; and as he rid along, he ſaw a Caſtle, where a great ugly Gyant lived that was Sir <hi>Grandere</hi>'s Brother; thither he hyed and bounced at the Gate which rouzed the Gyant out of a Dream, and coming out, ſaid, How now Fel<g ref="char:EOLhyphen"/>low? what art thou weary of thy life? How cameſt thou by <hi>Trunchifiſe</hi> my Brothers Steed? Why, ſaid <hi>Bevis,</hi> as I ſerved thy Brother, ſo ſle ſerve thee preſently: I come for Food, and that ile have before I go: Wilt thou ſo, quoth the Gyant? by <hi>Apoline</hi> I ſwear, thou ſhalt win it before thou haſt it; I, I, ſaid Sir <hi>Bevis,</hi> ile Dine at thy Caſtle, and thou ſhalt ſup with the Devil: ſhall I ſo, quoth he? and up with a mighty Bar of Iron, and ſtruck at him, which blow he wonderfully miſt, but it beat out <hi>Trunchi<g ref="char:EOLhyphen"/>fiſe's</hi> brains: <hi>Bevis</hi> ſeeing that, nimbly leapt out of Saddle, and laid upon the Gyant moſt ſtoutly: the Gyant finding that he was very ſtrong, with a violent force he ſtruck a Dart into his ſhoulder; then, in the heat of blood, he made a full blow at the Gyant, which parted his Head from his Body: then into the Caſtel went <hi>Bevis,</hi> and forced the Gyants Wife to taſte both meat and drink, and he fed after her: then into the Stable he went, and took a goodly Horſe, and rode away from thence to find out fair <hi>Joſian,</hi> whom he dearly loved: and it happened that he met with a poor Palmer, to whom he ſaid, Who liveth in yonder Caſtle? Marry, quoth the Pal<g ref="char:EOLhyphen"/>mer, there dwelleth King <hi>John</hi> that married the fair Lady <hi>Joſian;</hi> and is the Queen living,, ſaid he? Yes, ſir Knight, ſaid the poor Palmer: I will give thee my Steed for thy Weed, ſaid he, With all my heart, replyed the Palmer, and thank you too: then he leaped off his back, and gave his Steed to the Palmer, and ſo put on the Palmers Weed, then he took his way to the Caſtle, where he found abundance of joys more than he lookt for but at the firſt, <hi>Joſian</hi> did not know him, yet ſtill he and ſhe talked, that he got ſo far into <hi>Joſians</hi> favour, that ſhe gave him leave to ſee <hi>Arundel,</hi> and then ſhe knew Sir <hi>Bevis:</hi> for his Steed <hi>Arun<g ref="char:EOLhyphen"/>del</hi> hearing him ſpeak, broke ſeven Chains aſunder, and Neigh<g ref="char:EOLhyphen"/>ed: then <hi>Joſian</hi> took <hi>Bevis</hi> uſide into her Garden, and there they both concluded to be gone: <hi>Boniface</hi> her Chamberlain was a truſty friend unto her, and vowed to further their Iour<g ref="char:EOLhyphen"/>ney, he would do his beſt, then ſaid <hi>Joſian</hi> to <hi>Bevis;</hi> My Lord, you ſhall ſtay about my Caſtle a while, and you ſhall,
+<pb facs="tcp:38392:8"/> ſay to the King that you came from <hi>Jury,</hi> and that King <hi>Brad<g ref="char:EOLhyphen"/>win</hi> is beſieg'd by the King of <hi>Syrack,</hi> and how he is like to loſe his Kingdom: In the mean time King <hi>Jour</hi> came home, and <hi>Bevis</hi> told him all that <hi>Joſian</hi> bid him: Why ſent he not to me, ſaid the King? he did ſend, replyed he, but his Meſſengers were taken by <hi>Syrack:</hi> then <hi>Jour</hi> ſwore by <hi>Mahound,</hi> he would re<g ref="char:EOLhyphen"/>venge his Brothers wrong: ſo with all ſpeed he raiſed an Army, and went to help his Brother, and left Sir <hi>Graſſy</hi> to rule in his ſtead till his return; King <hi>Jour</hi> being gone, they gave Sir <hi>Graſſy</hi> a ſleepy drink, which made him lye like one that was dead, for four and forty hours: in the mean time, <hi>Bevis, Joſian,</hi> and <hi>Boniface,</hi> got great ſtore of Moneys, and coſtly Iewels, and then away they came for <hi>England:</hi> and as theſe three travelled, they were ſo hard purſued by Sir <hi>Graſſy,</hi> that they were forced to take for their ſuc<g ref="char:EOLhyphen"/>cour a Cave for ſhelter; ſo there they ſtayed all one night: Next morning Sir <hi>Bevis</hi> went out to kill ſome beaſt or other to dreſs for <hi>Joſian,</hi> for ſhe was hungry: The while <hi>Bevis</hi> was abroad, there came into the Cave two dreadful Lions, which ſlew poor <hi>Boniface</hi> and eat him; whilſt <hi>Joſian</hi> trembling with fear, the Lions went to her, and laid their heads in her Lap: By this time <hi>Bevis</hi> retur<g ref="char:EOLhyphen"/>ned to the Cave, &amp; ſeeing the blood and bones of <hi>Boniface,</hi> won<g ref="char:EOLhyphen"/>dred at it, and entring the Cave, <hi>Joſian</hi> ſaid, good <hi>Bevis</hi> be careful, for here is two Lions in the Cave with me, and they have ſlain <hi>Boniface</hi> and eaten him: <hi>Bevis</hi> anſwered, art thou alive? by this I know thou art a pure Maid. <hi>Joſian</hi> replyed, I will hold the one whilſt thou kill the other; Nay, ſaid he, let them both come toge<g ref="char:EOLhyphen"/>ther; then <hi>Joſian</hi> ſet them at liberty, and they came full drive at him, but he with his good <hi>Morglay,</hi> flew them both preſently, and ſo the quarrel was ended. Then <hi>Bevis &amp; Joſian</hi> refreſht themſelves and rode onward on their Iourney, and as they went, there met them <hi>Aſcapart,</hi> an ugly Gyant, who was thirty foot in length, and a foot between his Eye-brows, he was briſtled like a Swine, and his blobber lips hung a one ſide; and meeting, <hi>Aſcapart</hi> ſaid, ſtand, thee and thy Lady muſt along with me; Not ſo, ſaid <hi>Bevis,</hi> thou ſhalt have but one of us, for I will try my Manhood with thee firſt, and if you get the day, take it and welcome; Then <hi>Joſian</hi> held <hi>Arundel</hi> whilſt he fought with <hi>Aſcapart;</hi> the fight continued a long time, yet <hi>Bevis</hi> avoiding his heavy blows, gave <hi>Aſcapart</hi>
+                  <pb facs="tcp:38392:8"/> many a wound, made him roar extreamly: and being mad, he laid at him with his cruel Bat, thinking for to beat out his Brains, but with that ſtroke his foot ſlipt, and down he fell; <hi>Bevis</hi> would have ſmote off his Head, but <hi>Joſian</hi> being pittiful, ſaid; Do not ſo, let him go with us: Lady, ſaid <hi>Bevis,</hi> he may betray us: By all my Gods, ſaid <hi>Aſcapart,</hi> I ſwear if thou wilt ſave my life, I will be true to thee and thy Lady, and do you what ſervice I can? Then riſe and live, ſaid <hi>Bevis:</hi> So <hi>Bevis</hi> and <hi>Joſian</hi> mounted <hi>Arundel,</hi> and away they rode, with <hi>Aſcapart</hi> by their ſide, till they came to the Sea, where they found many Sarazens and a Ship bound for <hi>Chriſtendom,</hi> but the Sarazens would not ferry them to the Ship; then <hi>Bevis</hi> and <hi>Aſcapart</hi> made great ſlaughter among them, and killed a bundance of them: then ſaid <hi>Aſcapart</hi> let me alone, I will carry you to the Ship, Horſe and all: ſo he took the Horſe under his Arm, with <hi>Bevis</hi> and <hi>Joſian</hi> and waded to the Ship, where they had welcome, and ſo ſailed into the Land of <hi>Colen,</hi> where dwelt a Biſhop that was <hi>Bevis</hi>'s Kinſman, who bad them very Wel<g ref="char:EOLhyphen"/>come; and after much diſcourſe, the Biſhop ſaid; What Country Lady is this? <hi>Bevis</hi> anſwered the King of <hi>Almonies</hi> Daughter, and ſhe would become a Chriſtian for my ſake. And what ill-favour<g ref="char:EOLhyphen"/>ed Lubber is this, ſaid the Biſhop? He is my Page, ſaid he, and <hi>Joſian</hi> and he would fain be chriſtened; this Lubber is too big to be carried by a Midwife to the Font, ſaid the Biſhop; that is true quoth Sir <hi>Bevis.</hi> But in the end <hi>Joſian</hi> was chriſtened by the Bi<g ref="char:EOLhyphen"/>ſhop, and <hi>Aſcapart</hi> had a Font made on purpoſe to be chriſtened in that was very large; but when he came to be chriſtened, Out Devil, quoth <hi>Aſcapart,</hi> thou wilt drench me, I am too big to be chriſtened by thee, and leapt over the Font, and away he went.</p>
+            </div>
+            <div n="8" type="chapter">
+               <pb facs="tcp:38392:9"/>
+               <head>CHAP. VIII. How <hi>Bevis</hi> ſlew a dreadful Dragon, and what after chanced.</head>
+               <p>
+                  <figure>
+                     <figDesc>depiction of a knight in armour with a sword raised ready to strike a dragon with a second head on its tail; in the background another knight and a castle</figDesc>
+                  </figure>
+               </p>
+               <p>
+                  <hi>BEvis</hi> being in bed, heard a Knight cry, I Rot, I Rot, at which ſad noiſe <hi>Bevis</hi> wondred: and the next morning he asked what was the cauſe of that noiſe: He was a Knight, ſaid they, that com<g ref="char:EOLhyphen"/>ing through the ſtreet the Dragon met with and caſt her Venome upon him, whereof he rotted and dyed, Where is that Dragon? ſaid <hi>Bevis;</hi> Not far from this place, ſaid they. Then <hi>Bevis</hi> called <hi>Aſcapart</hi> to go with him, and <hi>Aſcapart</hi> was very willing. So together they went, and when they came near the place where the Dragan was, they heard the dreadfulleſt Yell that ever was: What Devil is that, quoth <hi>Aſcapart,</hi> It is the Dragon, ſaid <hi>Bevis:</hi> we ſhall ſee him anon. I'le go no further, ſaid <hi>Aſ<g ref="char:EOLhyphen"/>capart,</hi> if ſhe roars ſo loud before we come to her, what will ſhe do when we fight with her? Fear not, ſaid <hi>Bevis,</hi> we will teach her how to hold her Tongue, Marry, teach her thy ſelf, ſaid
+<pb facs="tcp:38392:9"/> 
+                  <hi>Aſcapart,</hi> for I will go back again: then farewel, ſaid <hi>Bevis,</hi> I will go my ſelf, ſo forward went <hi>Bevis,</hi> &amp; backward went <hi>Aſca<g ref="char:EOLhyphen"/>part,</hi> Bevis coming near her Den, ſhe made forth, but never was ſuch a Dragon ſeen in the world as this was, from her Head to Tail was full forty foot, her Scales gliſtered as bright as Silver, and hard as Fliut; have-at thy Devils face, ſaid <hi>Bevis</hi> and out he drew his good <hi>Morglay,</hi> (on the Dragon laid, but her Scales was ſo hard, his Sword cry'd twang, &amp; never entred: then the Dragon ſtruck <hi>Bevis</hi> to the ground, &amp; up he got again: but ſhe came on ſo fiercely that <hi>Bevis</hi> went back, &amp; by chance fell into a Well, elſe the Dragon dad deſtroy'd him; it ſeems the Well was holy water, &amp; no venome might come within ſeven foot of it: there <hi>Bevis</hi> refre<g ref="char:EOLhyphen"/>ſhed himſelf, &amp; drank of the Water: and recovering his ſtrength, to the Dragon he went again to have the other hour; but the Dra<g ref="char:EOLhyphen"/>gon aſſailed him ſo ſore that <hi>Bevis</hi> was afraid he ſhould have loſt his life, yet with a valiant heart he ſtood to her ſtoutly: the Dra<g ref="char:EOLhyphen"/>gon finding him ſo ſtrong bulkt a Gallon of her Venome upon him, which fell'd him dead to the ground, &amp; his Armour burſt all to pie<g ref="char:EOLhyphen"/>ces: the Dragon ſeeing he lay ſo ſtill, ſhe turned him with her tail, that he tumbled into the Well, and the water thereof expelled the Venome, and made himſelf ſafe and ſound again; then he was a joyful man, and ſet upon the Dragon again: and when they had fought a long time, the Dragon would have been gone, and think<g ref="char:EOLhyphen"/>ing to raiſe her ſelf, lifted up her wings: Have-at thee now, ſaid <hi>Bevis;</hi> and with one ſound blow hitting her under the wing, pier<g ref="char:EOLhyphen"/>ced her to the heart; with that ſhe gave ſuch a cry, which made the earth tremble; ſhe being dead, <hi>Bevis</hi> be headed her, and put it upon his ſpear, and ſo rode home: &amp; when the people ſaw him coming, they gave a great ſhout, as at a Kings Coronation, &amp; all the bells in the Town did ring, and all manner of Muſick play'd before <hi>Bevis,</hi> as he rode through the Town, where with great Ioy his Vncle recieved him.</p>
+            </div>
+            <div n="9" type="chapter">
+               <pb facs="tcp:38392:10"/>
+               <head>CHAP. IX. How <hi>Bevis</hi> raiſed an Army againſt Sir <hi>Murdure.</hi>
+               </head>
+               <p>NOw <hi>Bevis</hi> was willing to give over Travel, and ſee to get his own Inheritance; he therefore got an hundred Valiant Souldiers of his Vncle, and ſailed into <hi>England,</hi> and landed near unto <hi>Southampton,</hi> and ſent a Knight unto Sir <hi>Murdure,</hi> to tell him, that a Knight of <hi>Almain,</hi> hearing of his troubles, was come to aid and aſſiſt him againſt Sir <hi>Sabere:</hi> the Knight having told his Meſſage, Sir <hi>Murdure</hi> deſired to ſee him: <hi>Bevis</hi> knowing that, went to the Caſtle; Sir <hi>Murdure</hi> and his wife bid him very welcome, and then deſired to know his Name; my Name is <hi>Gerrard,</hi> ſaid <hi>Bevis,</hi> and I hearing of theſe Wars, have brought over a hundred choſen men, to help to maintain your right: I give you thanks, ſaid Sir <hi>Murdure;</hi> but you muſt furniſh us with Horſe and Arms (quoth <hi>Bevis:</hi>) I, and of the beſt I have too, for every man ſhall chuſe his own Steed and Arms, ſaid Sir <hi>Murdure:</hi> Then have at Sir <hi>Sabere,</hi> ſaid <hi>Bevis:</hi> ſo to Supper they went, and after Supper, Sir <hi>Murdure,</hi> to make his matter good, told <hi>Bevis,</hi> that the Caſtle was once another Knights that was his Predeceſſor: and ſaid he by misfortune was ſlain: Had he never a Child by his Lady? Yes, ſaid Sir <hi>Murdure:</hi> Is he dead or living, ſaid <hi>Bevis?</hi> I know not, quoth he, when he was, young he ſold me his Caſtle, and all his Inheritance, and ſpent the Mo<g ref="char:EOLhyphen"/>ney, and then went beyond Sea, and what is become of him I can<g ref="char:EOLhyphen"/>not tell: If he were ſuch a one, ſaid <hi>Bevis,</hi> it is no matter where he is. So after many ſeveral Diſcourſes of Foreign Coun<g ref="char:EOLhyphen"/>tries, to bed they went, and then <hi>Bevis</hi> &amp; his men were furniſhed with all things fitting for ſervice. Ships being prepared for that purpoſe, they took their leaves of Sir <hi>Murdure</hi> and his Lady for that time, and ſailed to the <hi>Iſle of Wight,</hi> where Sir <hi>Sabere</hi> dwelt.</p>
+            </div>
+            <div n="10" type="chapter">
+               <pb facs="tcp:38392:10"/>
+               <head>CHAP. X. How a Knight Wedded fair <hi>Joſian</hi> in <hi>Coler,</hi> againſt her Will, and what after befell.</head>
+               <p>
+                  <figure>
+                     <figDesc>depiction of a man and woman with hands touching; in the background a woman or shepherdess with a crook</figDesc>
+                  </figure>
+               </p>
+               <p>
+                  <hi>Joſian all</hi> this while was in <hi>Colen</hi> with <hi>Aſcapart;</hi> In that Country lived a Knight called the Earl of <hi>Milo,</hi> who loved <hi>Joſian,</hi> but ſhe would not yeild unto his will; to take her by force he durſt not, for fear of <hi>Aſcapart:</hi> Therefore he wrote Letters in the Name of Sir <hi>Bevis,</hi> that <hi>Aſcapart</hi> ſhould come to him: when he had done, he ſent the Letters to <hi>Joſian,</hi> and ſhe received them as from Sir <hi>Bevis:</hi> and then reading them,
+<pb facs="tcp:38392:11"/> ſhe was very glad to hear from her deareſt Friend: ſo ſhe gave the Bearer a great reward &amp; ſent <hi>Aſcapart</hi> with him, not thinking how ſhe was betray'd: when as they came to the Caſtle, <hi>Aſcapart</hi> was put in a Dungeon, inſtead of ſeeing his Maſter: then the luſt<g ref="char:EOLhyphen"/>ful Earl went to <hi>Joſian,</hi> &amp; told her how he had ſerved her, &amp; <hi>Aſca<g ref="char:EOLhyphen"/>part</hi> was faſt in the Caſtle: Haſt thou ſerved me ſo, ſaid ſhe think not hereby ever to have thy will on me: Then the villian would have raviſhed her, but ſhe (rather than ſuffer Rape) yielded to mar<g ref="char:EOLhyphen"/>ry him: Then he was very joyful, &amp; ſent for all the Kts. &amp; Gentle<g ref="char:EOLhyphen"/>men, &amp; the next day was married to <hi>Joſian:</hi> &amp; after great feaſting at night to bed ſhe went, &amp; all his valiant Kts. was in the Cham<g ref="char:EOLhyphen"/>ber with him: then <hi>Joſian</hi> (to have opportunity) pray'd him to ſend all the company away, which was performed preſently; the Cur<g ref="char:EOLhyphen"/>tains being cloſe about the Bed, ſhe made a Nooſe, &amp; as he ſat by the bed-ſide, ſhe ſlipping it over his head ſtrangl'd him, &amp; hung him over a beam: In the morning his Friends came to give him joy; <hi>Joſian</hi> ſaid look where he hangs: then they were all amazed, yet they took <hi>Joſian</hi> &amp; carried her to the ſtake to be burned. In the mean time <hi>Aſcapart</hi> broke out of tha Caſtle, &amp; got into a Fiſher-boat, then rowing himſelf to Land, he met with <hi>Bevis,</hi> &amp; told all that had happened: ſo they both went, &amp; found <hi>Joſian</hi> at a ſtake to be burned; there they fought couragiouſly, &amp; releaſed <hi>Joſian,</hi> &amp; then they went all three to Sir <hi>Sabere,</hi> where they were Royally entertained.</p>
+            </div>
+            <div n="11" type="chapter">
+               <head>CHAP. VI. How <hi>Bevis</hi> and Sir <hi>Sabere</hi> raiſed Arms againſt <hi>Murdure,</hi> with other things that happen'd.</head>
+               <p>THen <hi>Bevis</hi> ſent word to Sir <hi>Murdure,</hi> That he thanked him for his Arms, and bad him prepare for Battle: So <hi>Murdure</hi> and his Hoſt came to the <hi>Iſle of Wight,</hi> where <hi>Bevis</hi> met with him, and betwten them was a bloody Battel: Sir <hi>Sabere, Bevis,</hi> and <hi>Aſcapart,</hi> made ſuch havock with them, that they ſlew all that came near them; and <hi>Aſcapart</hi> took Sir <hi>Murdure</hi> and carried him to
+<pb facs="tcp:38392:11"/> the Caſtle, &amp; put him in a Cauldron of boyling Pitch and Brim<g ref="char:EOLhyphen"/>ſtone; the <hi>Almain</hi> Army fled, and the King of <hi>England</hi> with his Forces run away. Sir <hi>Murdure's</hi> Lady ſeeing this, threw her ſelf
+<figure>
+                     <figDesc>depiction of two armies arranged one above the other, with muskets, pikes, a flag, a drum, and ensign-staffs</figDesc>
+                  </figure> down from the Caſtle and broke her neck: then <hi>Bevis</hi> gave rich Gifts to the ſoldiers, and was placed in <hi>Southampton:</hi> then he married <hi>Joſian,</hi> &amp; afterwards went to do homage to King <hi>Edgar,</hi> who was exceeding joyful to ſee <hi>Bevis,</hi> &amp; made him Lord Marſhal of <hi>England:</hi> the King's ſon would have bought <hi>Arundel,</hi> but <hi>Bevis</hi> would not ſell him for gold nor ſilver: then the Prince would take him by force; but coming into the Stable, <hi>Arundel</hi> beat out his Brains: The King hearing this, was in wrath with <hi>Bevis,</hi> and ſwore he ſhould dye: but at laſt it was concluded, he ſhould only be baniſhed the Lynd: ſo <hi>Bevis</hi> ſurrendred up all his whole Eſtate to Sir <hi>Sabere,</hi> and took <hi>Joſian, Terry,</hi> and <hi>Aſcapart</hi> along with him.
+<pb facs="tcp:38392:12"/> And as they went, <hi>Joſian</hi> fell in labor; then were they in a Forreſt, and <hi>Joſian</hi> bid them walk away till ſhe was delivered: ſo <hi>Terry &amp; Bevis</hi> went together, and <hi>Aſcaprrt</hi> went another way; and when ſhe was delivered, <hi>Aſcapart</hi> came to <hi>Joſian,</hi> and carried her away: <hi>Bevis</hi> and <hi>Terry</hi> came and found two Children, but not the mother, ſo <hi>Bevis</hi> took the Infants, naming the eldeſt <hi>Guy,</hi> and the younger <hi>Miles,</hi> and went his way, and in his journey met accidentally with a Forreſter &amp; a Fiſherman, whom with good ſtore of Gold he hired to take his Children to Nurſe, &amp; engaged them at ſeven years and to bring them to one <hi>Bevis</hi> of <hi>Hampton,</hi> and they ſhould be rewar<g ref="char:EOLhyphen"/>ded to their deſires: they took the Infants and the Gold, promiſing to perform all things accordingly; and ſo <hi>Bevis</hi> and his Sons parted: but <hi>Sabere,</hi> and twelve Knights with him, followed <hi>Aſ<g ref="char:EOLhyphen"/>capart,</hi> in Palmers Weeds, and overtook him near the City of <hi>Mambrant,</hi> fought with him, and ſlew him on the place: Thus he redeemed fair <hi>Joſian,</hi> to her great joy, and carrying her to his Inn, there he met with Sir <hi>Bevis</hi> and <hi>Terry;</hi> at which time, to compleat their happineſs, the Forreſter and the Fiſherman brought <hi>Bevis's</hi> two Sons, who thanking them both for their care, gave them great Riches, and cauſed them for to be made Knights: ſoon after this, there began a fierce War between <hi>Jour</hi> King of <hi>Mam<g ref="char:EOLhyphen"/>brant,</hi> and <hi>Ermine</hi> King of <hi>Armony,</hi> for <hi>Joſians</hi> ſake; Where<g ref="char:EOLhyphen"/>upon <hi>Bevis</hi> went to the aid of <hi>Ermine,</hi> and took King <hi>Jour</hi> Priſo<g ref="char:EOLhyphen"/>ner, for whoſe Ranſome he had Twenty Tun of Gold, and three Hundred white Steeds.</p>
+               <p>King <hi>Ermine</hi> was ſo highly affected with this Favour, that for <hi>Bevis</hi> his ſake he turned Chriſtian, and a little before his deceaſe Crowned <hi>Guy</hi> King of <hi>Armony,</hi> and <hi>Miles</hi> he made a Knight, where they lived a ſpace in great happineſs &amp; felicity; but King <hi>Jour</hi> bearing an inward grudge, or inveterate malice againſt <hi>Bevis</hi> he once more reſolved to try the fortune of War with him; ſo he raiſed a great Army of Heatheniſh Sarazens, who with undaun<g ref="char:EOLhyphen"/>ted Courage aſſaulted <hi>Bevis</hi> in <hi>Armony,</hi> being led on by King <hi>Jour</hi> himſelf in perſon: theſe charged not ſo gallantly, but they were re<g ref="char:EOLhyphen"/>pulſed as bravely, &amp; in ſhort time totally routed by the unconque<g ref="char:EOLhyphen"/>rable power of our Engliſh Knights. In this skirmiſh Sir <hi>Bevis</hi> meeting King <hi>Jour,</hi> had a ſingle combat with him, in which fight
+<pb facs="tcp:38392:12"/> after many bloody ſtrokes on both ſides, King <hi>Jour</hi> was ſlain, &amp; his Army was wholly vanquiſhed: <hi>Bevis</hi> then putting on the Armour of R. <hi>Jour,</hi> rode to the City of <hi>Mambrant,</hi> where he was received and welcomed home by the people, inſtead of their King: He no ſooner got poſſeſſion of the place, but he made them all become his Servants, and renounce their falſe Gods, and turn Chriſtians, and by this means his fair Lady <hi>Joſian</hi> was the ſecond time at <hi>Mam<g ref="char:EOLhyphen"/>brant.</hi>
+               </p>
+            </div>
+            <div n="12" type="chapter">
+               <head>CHAP. XII. Containing the Concluſion of the Hiſtory.</head>
+               <p>WHilſt <hi>Sabere</hi> continued thus with <hi>Bevis,</hi> tydings came un<g ref="char:EOLhyphen"/>to him, that his wife was diſinherited by <hi>Edger</hi> King of <hi>England;</hi> whereupon he, with <hi>Bevis, Joſian,</hi> and his two Sons <hi>Guy</hi> and <hi>Miles,</hi> marcht to <hi>London</hi> with a great Army, and fought gainſt King <hi>Edgar,</hi> ſlew two thouſand of his Souldiers for the wrong he had done unto him, and to <hi>Sabere,</hi> and then he retur<g ref="char:EOLhyphen"/>ned to <hi>Southampton,</hi> where King <hi>Edgar</hi> ſent unto him for a parly and in the concluſion made a peace with him, and agreed to marry his eldeſt Daughter unto <hi>Miles (Bevis</hi> his Son) whom at that time alſo he made Earl of <hi>Cornwal;</hi> the Wedding being ſolem<g ref="char:EOLhyphen"/>nized with great joy, and variety of Courtly Recreations. Sir <hi>Bevis,</hi> with <hi>Joſian</hi> and <hi>Guy</hi> his eldeſt Son, returned to their ſe<g ref="char:EOLhyphen"/>veral homes. After this, <hi>Bevis</hi> lived in <hi>Mambrant,</hi> and then <hi>Jo<g ref="char:EOLhyphen"/>ſian</hi> ſell ſick, who was accompanied by her beloved Husband, both in Sickneſs and in Death: They dyed both in one day, and were ſolemly Intered in one Grave by <hi>Guy</hi> their Son, who raiſed a ſtately Tomb over them, to the Everlaſting Memory of ſo Gal<g ref="char:EOLhyphen"/>land a Knight, and his moſt Royal Conſtant Lady.</p>
+               <l>So I conclude his Famous Acts here Pen'd;</l>
+               <l>For Time and Death brings all thins to an</l>
+            </div>
+            <trailer>END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="woodcuts">
+            <pb facs="tcp:38392:13"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of two armed men riding horses, with two women standing in the background</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>depiction of a knight in armour with a sword raised ready to strike a dragon with a second head on its tail; in the background another knight and a castle</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:38392:13"/>
+            <pb facs="tcp:38392:14"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:38392:15"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:38392:15"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:38392:16"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:38392:16"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="6" facs="tcp:38392:17"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:38392:17"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="8" facs="tcp:38392:18"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="9" facs="tcp:38392:18"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="10" facs="tcp:38392:19"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="11" facs="tcp:38392:19"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="12" facs="tcp:38392:20"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="13" facs="tcp:38392:20"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="14" facs="tcp:38392:21"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="15" facs="tcp:38392:21"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="16" facs="tcp:38392:22"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="17" facs="tcp:38392:22"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="18" facs="tcp:38392:23"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="19" facs="tcp:38392:23"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="20" facs="tcp:38392:24"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="21" facs="tcp:38392:24"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="22" facs="tcp:38392:25"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="23" facs="tcp:38392:25"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="publishers_advertisement__from_Wing_Gn170_variant">
+            <pb facs="tcp:38392:26"/>
+            <head>
+               <hi>BOOKS Printed for and Sold by</hi> J. Deacon, <hi>at the Angel in</hi> Giltſpur<g ref="char:EOLhyphen"/>ſtreet <hi>without</hi> Newgate. <hi>Where all Chapmen (may be furniſhed at Reaſonable Rates) and others.</hi>
+            </head>
+            <p n="1">1. THE moſt Famous Hiſtory of <hi>Amadis</hi> of <hi>Greece,</hi> Sirnamed the Knight of the <hi>Burning-Sword,</hi> Price 1s. 4d.</p>
+            <p n="2">2. <hi>Arcandam,</hi> that Famous and expert Aſtrologician, to find the fatal Deſtiny Conſtellation, and natural inclination of every Man-Child, by his birth. <hi>Price 6d.</hi>
+            </p>
+            <p n="3">3. The Art of <hi>Legerdemain,</hi> with new Additions. <hi>Price 6d.</hi>
+            </p>
+            <p n="4">4. Sports and Paſtimes for City and Country. <hi>Price 6d.</hi>
+            </p>
+            <p n="5">5. <hi>Markham</hi>'s faithful <hi>Farrier,</hi> wherein the depth of his Skill is laid open in all thoſe Principal and Approved ſecrets of Horſe<g ref="char:EOLhyphen"/>manſhip, in Octavo. <hi>Price 4d.</hi>
+            </p>
+            <p n="6">6. The Honour of the Cloath working Trade: or, the Pleaſant and Famous Hiſtory of <hi>Thomas</hi> of <hi>Reading. Price 3d</hi>
+            </p>
+            <p n="7">7. The Merchant Taylors Renown: or, the Famous and De<g ref="char:EOLhyphen"/>lightful Hiſtory of Sir <hi>John Hawkwood</hi> Knight. <hi>Price 3d.</hi>
+            </p>
+            <p n="8">8. The Famous Hiſtory of the Learned Fryer <hi>Bacon.</hi> p. 3<hi>d.</hi>
+            </p>
+            <p n="9">9. The Famous Pleaſant and Delightful Hiſtory of <hi>Ornatus</hi> and <hi>Arteſia</hi> Price 3<hi>d.</hi>
+            </p>
+            <p n="10">10. The Noble <hi>Birth</hi> and Gallant Atchivements of that Remark<g ref="char:EOLhyphen"/>able out Law <hi>Robin Hood,</hi> together with a true Account of the many Merry and Extravagant Exploits he plai'd, in Twelve ſeveral Stories. <hi>Price 3d.</hi>
+            </p>
+            <p n="11">11 The Renowned Hiſtory of the <hi>Seven</hi> Champions of Chriſti<g ref="char:EOLhyphen"/>andom. <hi>Price 3d.</hi>
+            </p>
+            <p n="12">12. Wiſdom's Cabinet Opened: or, the Famous Hiſtory of the <hi>Seven</hi> VViſe Maſters of <hi>Rome.</hi> Price <hi>3d.</hi>
+            </p>
+            <p n="13">13. The Hiſtory of the Life &amp; Death of that moſt Noble Knight Sir <hi>Bevis</hi> of <hi>Southampton.</hi> Price <hi>3d.</hi>
+            </p>
+            <p n="14">14. No Jeſt like a true Jeſt, being merry Pranks, and mad Ex<g ref="char:EOLhyphen"/>ploits of Captain <hi>James Hind</hi> Price <hi>1d.</hi>
+            </p>
+            <p n="15">15. The Pleaſant Hiſtory of the Unfortunate ſon. <hi>Price 1d.</hi>
+            </p>
+            <p n="16">16. The Hiſtory of Dr. <hi>Fauſtus.</hi> Price <hi>1d.</hi>
+            </p>
+            <p n="17">17 The ſecond <hi>Part</hi> of Mother <hi>Bunch</hi> of the <hi>Weſt. Price 1d.</hi>
+            </p>
+            <p n="18">18. The Hiſtory of <hi>Tom Tipler,</hi> the merry <hi>Tinker</hi> of <hi>Banbury.</hi> 1d.</p>
+            <p n="19">19 The Birth, Life, and Death of <hi>John Frank.</hi> price p. 1d.</p>
+            <p n="20">20. <hi>John</hi> and his <hi>Miſtreſs. Price 1d.</hi>
+            </p>
+            <p n="21">21. The whole Art of <hi>Palmiſtry,</hi> ſhewing the Hour of the Day, by the figure of the Hand.</p>
+            <p n="22">22. The Book of Riddles, with pictures to each Riddle. <hi>p. 1d.</hi>
+            </p>
+            <pb facs="tcp:38392:26"/>
+         </div>
+      </back>
+   </text>
+</TEI>
